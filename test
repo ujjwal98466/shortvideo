@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "titleEnglish": "Nature - For Bigger Blazes",
+    "titleNepali": "प्रकृति - आगोको ज्वाला",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "2",
+    "titleEnglish": "Adventure - For Bigger Escapes",
+    "titleNepali": "साहस - ठूलो यात्रा",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "3",
+    "titleEnglish": "My New Video",
+    "titleNepali": "मेरो नयाँ भिडियो",
+    "url": "https://your-hosting-domain.com/path/to/your_video.mp4"
+  }
+]
